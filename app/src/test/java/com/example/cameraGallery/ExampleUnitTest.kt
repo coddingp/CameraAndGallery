@@ -1,4 +1,4 @@
-package com.example.cameragallery
+package com.example.cameraGallery
 
 import org.junit.Test
 
